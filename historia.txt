@@ -1,5 +1,3 @@
 hola esto es una historia bonita
 
-aca estoy aprendiendo a usar git y sus repositorios pa volverme un progrmador bien vergon xd
-
-mañana nos enfocaremos en otra cosa
+ahora me conecte a github con mi llavecita ssh y estuvo interesante
